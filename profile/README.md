@@ -1,0 +1,3 @@
+Many schools have Chromebooks, and schools make the assumption that Chromebooks are secure. But can you prove that assumption? Well, unfortunately, Chromebooks and Chromium in general had many exploits in the past allowing for massive web campaigns to steal user information. Recently, the sh1mmer vulnerability allowed for unsigned code execution on Chromebook. With Arbitrary Code Execution, people could unenroll their Chromebook, or a malicious actor could read all of the users files! We have found vulnerabilities within Chromium, and will be discovering more in the future. Stay tuned for updates, as we responsibly disclose vulnerabilities.
+
+Our discord:  [**Discord**](https://discord.gg/dgUs2v8arh)
